@@ -47,4 +47,5 @@ s.t.
 	I {j in m, t in p}:
 	
 		sum{i in n} Xijt[i,j,t] = Yjt[j,t]*3;
-		
+
+	#ghjkdaflhksudjf
